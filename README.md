@@ -14,12 +14,18 @@ This makes digital voices feel **personal, engaging, and lifelike**.
 
 ---
 
+## 🗂️ Scheme
+
+<img src="./img/img-1.png" alt="Scheme" />
+
+---
+
 ## 📊 Full Description
 
 <details>
   <summary>📖 Click to expand the Description</summary>
 
-## 🛠️ Problem Solved
+### 🛠️ Problem Solved
 🔴 Most **TTS systems** sound **robotic** and **lack emotional nuance**.  
 ⚠️ Existing voice cloning tools require **huge datasets** and often fail at **expressive prosody** (essential for avatars, audiobooks, accessibility).
 
@@ -27,7 +33,7 @@ This makes digital voices feel **personal, engaging, and lifelike**.
 
 ---
 
-## 🚀 Solution & Achievements
+### 🚀 Solution & Achievements
 
 **Solution**:  
 An **advanced voice cloning + expressive TTS** application using **E5 architecture**, designed for **emotionally rich, natural-sounding speech**.
@@ -41,7 +47,7 @@ An **advanced voice cloning + expressive TTS** application using **E5 architectu
 
 ---
 
-## 🔬 Training Process Highlights
+### 🔬 Training Process Highlights
 
 - 📂 **Dataset Creation & Augmentation** → diverse speech (pitch, noise, tempo)
 - 🏗 **Pretraining + Fine-tuning** → E5 backbone with **prosody & speaker embedding loss**
@@ -51,14 +57,14 @@ An **advanced voice cloning + expressive TTS** application using **E5 architectu
 
 ---
 
-## 🌟 Key Features
+### 🌟 Key Features
 ✅ Custom voice cloning  
 ✅ Expressive TTS with emotion embeddings  
 ✅ Real-time inference for mobile/desktop
 
 ---
 
-## 🖥️ Technologies Used
+### 🖥️ Technologies Used
 - 🐍 Python, ⚡ PyTorch, 🎤 E5 TTS
 - 🎛️ Gradio / Streamlit for prototyping
 - 🚀 FastAPI for serving models
@@ -66,7 +72,7 @@ An **advanced voice cloning + expressive TTS** application using **E5 architectu
 
 ---
 
-## 📚 References
+### 📚 References
 - Jia, Y., Zhang, Y., Weiss, R. J., et al. (2018). *Transfer learning from speaker verification to multispeaker TTS*. **NeurIPS**.
 - Valin, J. M., Skoglund, J., Maciejewski, M. (2021). *Neural vocoders for real-time expressive TTS*. **ICASSP 2021**.
 - Wang, Y., Stanton, D., Zhang, Y., et al. (2020). *Style tokens: Unsupervised style modeling, control and transfer*. **ICML 2020**.
