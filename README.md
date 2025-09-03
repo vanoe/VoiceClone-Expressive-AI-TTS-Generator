@@ -14,6 +14,11 @@ This makes digital voices feel **personal, engaging, and lifelike**.
 
 ---
 
+## 📊 Full Description
+
+<details>
+  <summary>📖 Click to expand the Description</summary>
+
 ## 🛠️ Problem Solved
 🔴 Most **TTS systems** sound **robotic** and **lack emotional nuance**.  
 ⚠️ Existing voice cloning tools require **huge datasets** and often fail at **expressive prosody** (essential for avatars, audiobooks, accessibility).
@@ -70,3 +75,5 @@ An **advanced voice cloning + expressive TTS** application using **E5 architectu
 - Li, X., Zhang, Y., Wang, S. (2021). *Neural voice cloning with limited data*. **IEEE TASLP**.
 
 ---
+
+</details>
