@@ -59,6 +59,20 @@ This makes digital voices feel **personal, engaging, and lifelike**.
 
 [▶️ Spanish male](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Spanish_male.mp3)
 
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%"></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📊 Full Description
