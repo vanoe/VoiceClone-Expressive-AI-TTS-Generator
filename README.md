@@ -20,6 +20,31 @@ This makes digital voices feel **personal, engaging, and lifelike**.
 
 ---
 
+## 🧩 Samples
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 📊 Full Description
 
 <details>
