@@ -64,7 +64,7 @@ This makes digital voices feel **personal, engaging, and lifelike**.
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/a5826770-60ca-4e7a-8893-cad1050c2a32" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
