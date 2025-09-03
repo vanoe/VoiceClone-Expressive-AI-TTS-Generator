@@ -43,6 +43,22 @@ This makes digital voices feel **personal, engaging, and lifelike**.
     </tbody>
 </table>
 
+[▶️ Adam Erhart cloned](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Adam_Erhart_cloned.mp3)
+
+[▶️ Adam male original](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Adam_male_original.mp3)
+
+[▶️ Natalie Dawson female](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Natalie_Dawson_female.mp3)
+
+[▶️ Natalie Dawson](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Natalie_Dawson.mp3)
+
+[▶️ Original Spanish female](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Original_Spanish_female.mp3)
+
+[▶️ Original Spanish male](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Original_Spanish_male.mp3)
+
+[▶️ Spanish cloned female](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Spanish_cloned_female.mp3)
+
+[▶️ Spanish male](https://raw.githubusercontent.com/vanoe/VoiceClone-Expressive-AI-TTS-Generator/master/audio/Spanish_male.mp3)
+
 ---
 
 ## 📊 Full Description
